@@ -1,0 +1,30 @@
+--------------------------------------------------
+My original fly and quack behaviors
+--------------------------------------------------
+I'm a ModelDuck: 
+I can't fly
+Quack
+I'm a MallardDuck: 
+I'm flying!!
+Quack
+I'm a DecoyDuck: 
+I can't fly
+<< Silence >>
+I'm a RubberDuck: 
+I can't fly
+Squeak
+--------------------------------------------------
+My new fly and quack behaviors
+--------------------------------------------------
+I'm a ModelDuck: 
+I fly in a new way taught by <your_full_name>
+I quack in a new way taught by <your_full_name>
+I'm a MallardDuck: 
+I fly in a new way taught by <your_full_name>
+I quack in a new way taught by <your_full_name>
+I'm a DecoyDuck: 
+I fly in a new way taught by <your_full_name>
+I quack in a new way taught by <your_full_name>
+I'm a RubberDuck: 
+I fly in a new way taught by <your_full_name>
+I quack in a new way taught by <your_full_name>
