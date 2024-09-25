@@ -1,0 +1,54 @@
+
+CompareFirstName
+ 2 - Belmont, John - jb@gmail.com,
+ 1 - Surenagaraja, Lohith - lohithraj.surenagaraja@sjsu.edu,
+ 3 - Bhat, Toshi - toshi.bhat@sjsu.edu,
+ 0 - Valiveti, Varun - varun.valiveti@sjsu.edu,
+
+CompareLastName
+ 2 - Belmont, John - jb@gmail.com,
+ 3 - Bhat, Toshi - toshi.bhat@sjsu.edu,
+ 1 - Surenagaraja, Lohith - lohithraj.surenagaraja@sjsu.edu,
+ 0 - Valiveti, Varun - varun.valiveti@sjsu.edu,
+
+CompareId
+ 0 - Valiveti, Varun - varun.valiveti@sjsu.edu,
+ 1 - Surenagaraja, Lohith - lohithraj.surenagaraja@sjsu.edu,
+ 2 - Belmont, John - jb@gmail.com,
+ 3 - Bhat, Toshi - toshi.bhat@sjsu.edu,
+
+CompareEmail
+ 2 - Belmont, John - jb@gmail.com,
+ 1 - Surenagaraja, Lohith - lohithraj.surenagaraja@sjsu.edu,
+ 3 - Bhat, Toshi - toshi.bhat@sjsu.edu,
+ 0 - Valiveti, Varun - varun.valiveti@sjsu.edu,
+
+Sort by CompareFirstName (in reversed order)
+ 0 - Valiveti, Varun - varun.valiveti@sjsu.edu,
+ 3 - Bhat, Toshi - toshi.bhat@sjsu.edu,
+ 1 - Surenagaraja, Lohith - lohithraj.surenagaraja@sjsu.edu,
+ 2 - Belmont, John - jb@gmail.com,
+
+Sort by CompareLastName (in reversed order)
+ 0 - Valiveti, Varun - varun.valiveti@sjsu.edu,
+ 1 - Surenagaraja, Lohith - lohithraj.surenagaraja@sjsu.edu,
+ 3 - Bhat, Toshi - toshi.bhat@sjsu.edu,
+ 2 - Belmont, John - jb@gmail.com,
+
+Sort by CompareId (in reversed order)
+ 3 - Bhat, Toshi - toshi.bhat@sjsu.edu,
+ 2 - Belmont, John - jb@gmail.com,
+ 1 - Surenagaraja, Lohith - lohithraj.surenagaraja@sjsu.edu,
+ 0 - Valiveti, Varun - varun.valiveti@sjsu.edu,
+
+Sort by CompareEmail (in reversed order)
+ 0 - Valiveti, Varun - varun.valiveti@sjsu.edu,
+ 3 - Bhat, Toshi - toshi.bhat@sjsu.edu,
+ 1 - Surenagaraja, Lohith - lohithraj.surenagaraja@sjsu.edu,
+ 2 - Belmont, John - jb@gmail.com,
+
+Sort by default (full names)
+ 2 - Belmont, John - jb@gmail.com,
+ 3 - Bhat, Toshi - toshi.bhat@sjsu.edu,
+ 1 - Surenagaraja, Lohith - lohithraj.surenagaraja@sjsu.edu,
+ 0 - Valiveti, Varun - varun.valiveti@sjsu.edu,
