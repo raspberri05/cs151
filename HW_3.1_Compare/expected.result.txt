@@ -1,0 +1,97 @@
+
+Sort by FULLNAME
+ 3 -    Belmont, John       - jb@gmail.com,
+ 6 -       Bhat, Tony       - tony.bhat@gmail.com,
+ 5 -       Bhat, Toshi      - toshi.bhat@gmail.com,
+ 7 -      Bruno, Toshi      - toshi.bruno@gmail.com,
+ 2 -     Moreno, Lucie      - lucie.moreno@gmail.com,
+ 1 -       Todd, Irene      - irene.todd@gmail.com,
+ 4 -       Todd, Lucie      - lucie.todd@gmail.com,
+ 0 -       Todd, Mary       - mary.todd@gmail.com,
+
+Sort by FIRSTNAME
+ 1 -       Todd, Irene      - irene.todd@gmail.com,
+ 3 -    Belmont, John       - jb@gmail.com,
+ 2 -     Moreno, Lucie      - lucie.moreno@gmail.com,
+ 0 -       Todd, Mary       - mary.todd@gmail.com,
+ 6 -       Bhat, Tony       - tony.bhat@gmail.com,
+ 5 -       Bhat, Toshi      - toshi.bhat@gmail.com,
+
+Sort by LASTNAME
+ 3 -    Belmont, John       - jb@gmail.com,
+ 5 -       Bhat, Toshi      - toshi.bhat@gmail.com,
+ 7 -      Bruno, Toshi      - toshi.bruno@gmail.com,
+ 2 -     Moreno, Lucie      - lucie.moreno@gmail.com,
+ 0 -       Todd, Mary       - mary.todd@gmail.com,
+
+Sort by ID
+ 0 -       Todd, Mary       - mary.todd@gmail.com,
+ 1 -       Todd, Irene      - irene.todd@gmail.com,
+ 2 -     Moreno, Lucie      - lucie.moreno@gmail.com,
+ 3 -    Belmont, John       - jb@gmail.com,
+ 4 -       Todd, Lucie      - lucie.todd@gmail.com,
+ 5 -       Bhat, Toshi      - toshi.bhat@gmail.com,
+ 6 -       Bhat, Tony       - tony.bhat@gmail.com,
+ 7 -      Bruno, Toshi      - toshi.bruno@gmail.com,
+ 8 -      Bruno, Toshi      - toshi.bruno@gmail.com,
+
+Sort by EMAIL
+ 1 -       Todd, Irene      - irene.todd@gmail.com,
+ 3 -    Belmont, John       - jb@gmail.com,
+ 2 -     Moreno, Lucie      - lucie.moreno@gmail.com,
+ 4 -       Todd, Lucie      - lucie.todd@gmail.com,
+ 0 -       Todd, Mary       - mary.todd@gmail.com,
+ 6 -       Bhat, Tony       - tony.bhat@gmail.com,
+ 5 -       Bhat, Toshi      - toshi.bhat@gmail.com,
+ 7 -      Bruno, Toshi      - toshi.bruno@gmail.com,
+
+Sort by FULLNAME (in reversed order)
+ 0 -       Todd, Mary       - mary.todd@gmail.com,
+ 4 -       Todd, Lucie      - lucie.todd@gmail.com,
+ 1 -       Todd, Irene      - irene.todd@gmail.com,
+ 2 -     Moreno, Lucie      - lucie.moreno@gmail.com,
+ 7 -      Bruno, Toshi      - toshi.bruno@gmail.com,
+ 5 -       Bhat, Toshi      - toshi.bhat@gmail.com,
+ 6 -       Bhat, Tony       - tony.bhat@gmail.com,
+ 3 -    Belmont, John       - jb@gmail.com,
+
+Sort by FIRSTNAME (in reversed order)
+ 5 -       Bhat, Toshi      - toshi.bhat@gmail.com,
+ 6 -       Bhat, Tony       - tony.bhat@gmail.com,
+ 0 -       Todd, Mary       - mary.todd@gmail.com,
+ 2 -     Moreno, Lucie      - lucie.moreno@gmail.com,
+ 3 -    Belmont, John       - jb@gmail.com,
+ 1 -       Todd, Irene      - irene.todd@gmail.com,
+
+Sort by LASTNAME (in reversed order)
+ 0 -       Todd, Mary       - mary.todd@gmail.com,
+ 2 -     Moreno, Lucie      - lucie.moreno@gmail.com,
+ 7 -      Bruno, Toshi      - toshi.bruno@gmail.com,
+ 5 -       Bhat, Toshi      - toshi.bhat@gmail.com,
+ 3 -    Belmont, John       - jb@gmail.com,
+
+Sort by ID (in reversed order)
+ 8 -      Bruno, Toshi      - toshi.bruno@gmail.com,
+ 7 -      Bruno, Toshi      - toshi.bruno@gmail.com,
+ 6 -       Bhat, Tony       - tony.bhat@gmail.com,
+ 5 -       Bhat, Toshi      - toshi.bhat@gmail.com,
+ 4 -       Todd, Lucie      - lucie.todd@gmail.com,
+ 3 -    Belmont, John       - jb@gmail.com,
+ 2 -     Moreno, Lucie      - lucie.moreno@gmail.com,
+ 1 -       Todd, Irene      - irene.todd@gmail.com,
+ 0 -       Todd, Mary       - mary.todd@gmail.com,
+
+Sort by EMAIL (in reversed order)
+ 7 -      Bruno, Toshi      - toshi.bruno@gmail.com,
+ 5 -       Bhat, Toshi      - toshi.bhat@gmail.com,
+ 6 -       Bhat, Tony       - tony.bhat@gmail.com,
+ 0 -       Todd, Mary       - mary.todd@gmail.com,
+ 4 -       Todd, Lucie      - lucie.todd@gmail.com,
+ 2 -     Moreno, Lucie      - lucie.moreno@gmail.com,
+ 3 -    Belmont, John       - jb@gmail.com,
+ 1 -       Todd, Irene      - irene.todd@gmail.com,
+HashSet size by FULLNAME  = 8
+HashSet size by FIRSTNAME = 6
+HashSet size by LASTNAME  = 5
+HashSet size by ID        = 9
+HashSet size by EMAIL     = 8

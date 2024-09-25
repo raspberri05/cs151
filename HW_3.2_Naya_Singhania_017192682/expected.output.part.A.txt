@@ -1,0 +1,24 @@
+
+The King is swinging a sword.
+The King is shooting with a bow and an arrow.
+The King is cutting with a knife.
+The King is chopping with an axe.
+The King is throwing a stone.
+
+The Queen is swinging a sword.
+The Queen is shooting with a bow and an arrow.
+The Queen is cutting with a knife.
+The Queen is chopping with an axe.
+The Queen is throwing a stone.
+
+The Knight is swinging a sword.
+The Knight is shooting with a bow and an arrow.
+The Knight is cutting with a knife.
+The Knight is chopping with an axe.
+The Knight is throwing a stone.
+
+The Troll is swinging a sword.
+The Troll is shooting with a bow and an arrow.
+The Troll is cutting with a knife.
+The Troll is chopping with an axe.
+The Troll is throwing a stone.
