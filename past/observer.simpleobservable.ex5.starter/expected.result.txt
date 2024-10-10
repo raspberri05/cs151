@@ -1,0 +1,15 @@
+Set value = 100
+C has Value: 100
+B has Value: 100
+A has Value: 100
+
+Remove A
+Set value = 200
+C has Value: 200
+B has Value: 200
+
+Remove B
+Set value = 300
+C has Value: 300
+
+Remove C

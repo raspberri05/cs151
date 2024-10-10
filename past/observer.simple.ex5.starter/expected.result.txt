@@ -1,0 +1,15 @@
+Set value = 100
+Observer A has Value: 100
+Observer B has Value: 100
+Observer C has Value: 100
+
+Remove = Observer A
+Set value = 200
+Observer B has Value: 200
+Observer C has Value: 200
+
+Remove = Observer B
+Set value = 300
+Observer C has Value: 300
+
+Remove = Observer C

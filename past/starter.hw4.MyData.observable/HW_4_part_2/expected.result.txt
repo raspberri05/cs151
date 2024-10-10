@@ -1,0 +1,39 @@
+============================================================
+List of scores: [80.0, 65.0, 78.4]
+Highest: 80.0
+Average: 74.46667
+Lowest: 65.0
+============================================================
+List of scores: [82.0, 70.0, 99.2]
+Highest: 99.2
+Average: 83.73333
+Lowest: 70.0
+============================================================
+List of scores: [61.0, 63.0, 69.2]
+Highest: 69.2
+Average: 64.4
+Lowest: 61.0
+============================================================
+List of scores: [91.0, 73.0, 59.2]
+Highest: 91.0
+Average: 74.4
+Lowest: 59.2
+============================================================
+List of scores: [73.0, 66.0, 88.2]
+Highest: 88.2
+Average: 75.73333
+Lowest: 66.0
+============================================================
+List of scores: [78.0, 90.0, 29.2]
+Highest: 90.0
+Average: 65.73334
+Lowest: 29.2
+============================================================
+remove CurrentDisplay
+number of observers = 3
+remove HighestDisplay
+number of observers = 2
+remove AverageDisplay
+number of observers = 1
+remove LowestDisplay
+number of observers = 0
