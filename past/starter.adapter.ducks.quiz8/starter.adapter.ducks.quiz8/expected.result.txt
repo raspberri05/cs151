@@ -1,0 +1,9 @@
+
+The Duck says...
+Quack
+I'm flying
+
+The droneAdapter says...
+Beep beep beep
+Rotors are spinning
+Taking off
