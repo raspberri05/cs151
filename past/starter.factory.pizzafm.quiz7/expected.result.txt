@@ -1,0 +1,56 @@
+0: 
+--- Making a California Cheese Pizza ---
+Preparing California Cheese Pizza
+Bake for 25 minutes at 350
+Cutting the pizza into square slices
+Place pizza in official PizzaStore box
+Ethan ordered a ---- California Cheese Pizza ----
+Very Thin Crust Dough
+BBQ Sauce
+Goat Cheese
+
+
+1: 
+--- Making a California Clam Pizza ---
+Preparing California Clam Pizza
+Bake for 25 minutes at 350
+Cutting the pizza into square slices
+Place pizza in official PizzaStore box
+Joel ordered a ---- California Clam Pizza ----
+Very Thin Crust Dough
+BBQ Sauce
+Goat Cheese
+Calamari
+
+
+2: 
+--- Making a California Pepperoni Pizza ---
+Preparing California Pepperoni Pizza
+Bake for 25 minutes at 350
+Cutting the pizza into square slices
+Place pizza in official PizzaStore box
+Ethan ordered a ---- California Pepperoni Pizza ----
+Very Thin Crust Dough
+BBQ Sauce
+Goat Cheese
+Roasted Garlic
+Mashed Potato
+Artichoke Hearts
+Sliced Pepperoni
+
+
+3: 
+--- Making a California Veggie Pizza ---
+Preparing California Veggie Pizza
+Bake for 25 minutes at 350
+Cutting the pizza into square slices
+Place pizza in official PizzaStore box
+Joel ordered a ---- California Veggie Pizza ----
+Very Thin Crust Dough
+BBQ Sauce
+Goat Cheese
+Roasted Garlic
+Mashed Potato
+Artichoke Hearts
+
+
